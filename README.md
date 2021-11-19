@@ -9,7 +9,7 @@
 git clone git@github.com:Xewus/api_yamdb.git
 ```
 ```
-cd api_yambd
+cd api_yamdb
 ```
 Cоздать и активировать виртуальное окружение:
 ```
