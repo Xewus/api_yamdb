@@ -54,5 +54,5 @@ https://github.com/KaterinaSolovyeva  (/titles, README)
 
 https://github.com/nu-shtosh  (/users, settings)
 
-https://github.com/Xewus   (/reviews, /api)
+https://github.com/Xewus   (/reviews, сборка всего в  -> /api)
 
