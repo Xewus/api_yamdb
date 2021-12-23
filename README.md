@@ -50,9 +50,9 @@ GET /api/v1/titles/{title_id}/reviews/{review_id}/comments/
 
 Writers:
 
-https://github.com/KaterinaSolovyeva
+https://github.com/KaterinaSolovyeva  (/titles, README)
 
-https://github.com/nu-shtosh
+https://github.com/nu-shtosh  (/users, settings)
 
-https://github.com/Xewus
+https://github.com/Xewus   (/reviews, /api)
 
